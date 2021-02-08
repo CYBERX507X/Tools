@@ -102,7 +102,7 @@ sleep 4
 echo $pur"==================="$cy" ============================="
 sleep 4
 echo
-echo $pur"==================="$cy" ============================="
+echo $pur"==================="$cy" =============================Ôûê"
 echo $me"SECRIPT INI PUNYA MR.Lukman"
 sleep 8
 echo $me"WA AREYU ANONYMOS"
@@ -111,7 +111,7 @@ echo $me"WA AREYU CYBER"
 sleep 8
 echo $me"CYBER PEMALANG INDONESIA"
 sleep 8
-echo $me"CYBER PRMALANG ARMY"
+echo $me"CYBER PEMALANG ARMY"
 sleep 8
 echo $pur"==================="$cy" ============================="
 echo $pur"==============="$cy"==================="
@@ -153,7 +153,7 @@ pkg install python2
 pkg install git
 git clone https://github.com/CYBERX507X/temas
 cd temas
-python2 TEMA.py
+python TEMA.py
 fi
 
 if [ $pil = 2 ]
