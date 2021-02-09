@@ -99,7 +99,7 @@ echo $i"Ôûê"$pu"  NAMA      :  CYBER X507X "$i"              Ôûê"
 sleep 5
 echo $i"Ôûê"$pu"  GITHUB    :  CYBER X507X"$i"               Ôûê"
 sleep 4
-echo $pur"==================="$cy" ============================="
+echo $pur"==================="$cy" ============================= Ôûê"
 sleep 4
 echo
 echo $pur"==================="$cy" =============================Ôûê"
@@ -174,7 +174,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
 git clone https://github.com/CYBERX507X/Fbv1
-cd fb1
+cd Fbv1
 python2 VIP.py
 fi
 
