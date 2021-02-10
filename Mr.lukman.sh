@@ -92,53 +92,64 @@ sleep 3
 echo $i"Ôûê"$pu"  AUTHOR    :  Mr.Lukman  "$i"               Ôûê"
 sleep 4
 echo $i"Ôûê"$pu"  WhatsApp  :  08895422818801"$i"            Ôûê"
-sleep 5
+sleep 3
 echo $i"Ôûê"$pu"  TIM       :  3R0R S4ST6M"$i"               Ôûê"
-sleep 6
+sleep 3
 echo $i"Ôûê"$pu"  NAMA      :  CYBER X507X "$i"              Ôûê"
-sleep 5
+sleep 3
 echo $i"Ôûê"$pu"  GITHUB    :  CYBER X507X"$i"               Ôûê"
 sleep 4
-echo $pur"==================="$cy" ============================= Ôûê"
+echo $pur"==================="$cy" =============================Ôûê"
 sleep 4
 echo
 echo $pur"==================="$cy" =============================Ôûê"
-echo $me"SECRIPT INI PUNYA MR.Lukman"
-sleep 8
+echo $me"SECRIPT INI PUNYA"
+sleep 3
+echo $me"MR.Lukman"
+sleep 3
 echo $me"WA AREYU ANONYMOS"
-sleep 8
+sleep 3
 echo $me"WA AREYU CYBER"
-sleep 8
+sleep 3
 echo $me"CYBER PEMALANG INDONESIA"
-sleep 8
+sleep 3
 echo $me"CYBER PEMALANG ARMY"
-sleep 8
-echo $pur"==================="$cy" ============================="
+sleep 3
+echo $pur"==================="$cy" =============================Ôûê"
 echo $pur"==============="$cy"==================="
-echo $1"["$me"1"$ku"]"$i"[[ Temas (Indonesia) ]]           $me"[ "ON" ]
+echo $1"["$me"1"$ku"]"$i"[[ Temas (Indonesia)                 $me"[ "ON" ]
 echo $pur"==============="$cy"==================="
 sleep 3
-echo $i"["$me"2"$ku"]"$i"[[ PRENIUM FB ]]                  $me"[ "ON" ]
+echo $i"["$me"2"$ku"]"$i"[[ PRENIUM FB                        $me"[ "UPDATE" ]
 echo $pur"==============="$pu"==================="
 sleep 3
-echo $i"["$me"3"$ku"]"$i"[[ BRUTE FORCE FB ]]              $me"[ "ON" ]
+echo $i"["$me"3"$ku"]"$i"[[ BRUTE FORCE FB                    $me"[ "ON" ]
 echo $pur"==============="$pu"==================="
-sleep 7
-echo $i"["$me"4"$ku"]"$i"[[TARGGET  iSTRAGAM ]]            $me"[ "ON" ]
+sleep 3
+echo $i"["$me"4"$ku"]"$i"[[TARGGET  iSTRAGAM                  $me"[ "ON" ]
 echo $pur"==============="$bi"==================="
-sleep 7
-echo $i"["$me"5"$ku"]"$i"[[ SPM SMS ]]                     $me"[ "ON" ]
+sleep 3
+echo $i"["$me"5"$ku"]"$i"[[ SPM SMS                           $me"[ "OFFF" ]
 echo $pur"==============="$cy"==================="
-sleep 7
-echo $i"["$me"6"$ku"]"$i"[[ SPM CALL ]]                    $me"[ "ON" ]
+sleep 3
+echo $i"["$me"6"$ku"]"$i"[[ SPM CALL                          $me"[ "ON" ]
 echo $pur"==============="$cy"==================="
-sleep 7
-echo $i"["$me"7"$ku"]"$i"[[ Spm WatssAp ]]                 $me"[ "ON" ]
+sleep 3
+echo $i"["$me"7"$ku"]"$i"[[ Spm WatssAp                       $me"[ "ON" ]
 echo $pur"==============="$pu"==================="
-sleep 7
-echo $i"["$me"8"$ku"]"$i"[[ DDOS Ters4K17i ]]              $me"[ "ON" ]
+sleep 3
+echo $i"["$me"8"$ku"]"$i"[[ DDOS Ters4K17i                    $me"[ "ON" ]
 echo $pur"==============="$pu"==================="
-sleep 7
+sleep 3
+echo $i"["$me"9"$ku"]"$i"[[ DARK FB                           $me"[ "Update" ]
+echo $pur"==============="$pu"==================="
+sleep 3
+echo $i"["$me"10"$ku"]"$i"[[ MAIN FB DI (TERMUX)              $me"[ "Update" ]
+echo $pur"==============="$pu"==================="
+sleep 3
+echo $i"["$me"11"$ku"]"$i"[[ Encript Marshal (TERMUX)         $me"[ "Update" ]
+echo $pur"==============="$pu"==================="
+sleep 3
 echo $i"["$me"00"$i"]"$ku" *EXIT*"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
@@ -163,9 +174,9 @@ figlet -f slant "W A I T"|lolcat
 sleep 4
 pkg install python2
 pkg install git
-git clone https://github.com/CYBERX507X/Fb0
-cd Fb0
-python2 Blackhat.py
+https://github.com/CYBERX507X/prenium
+cd prenium
+python2 Fb.py
 fi
 
 if [ $pil = 3 ]
@@ -174,7 +185,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
 git clone https://github.com/CYBERX507X/Fbv1
-cd Fbv1
+cd fb1
 python2 VIP.py
 fi
 
@@ -231,6 +242,37 @@ cd Ters4K17i
 python2 Ters4K17i.py
 fi
 
+if [ $pil = 9 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+pkg install git
+git clone https://github.com/CYBERX507X/Dark-Fb
+cd Dark-Fb
+python2 Dark.py
+fi
+
+if [ $pil = 10 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+git clone https://github.com/CYBERX507X/Fb_Termux
+cd Fb_Termux
+ls
+python2 Fb.py
+fi
+
+if [ $pil = 11 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 5
+git clonehttps://github.com/CYBERX507X/encriptmarshal
+cd encriptmarshal
+ls
+python MarshallLukman.py
+fi
+
 if [ $pil = 0 ]
 then
 clear
@@ -242,3 +284,4 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 exit
 fi
+
